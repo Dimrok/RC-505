@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": ".venv\\Scripts\\python.exe",
+    "python.linting.enabled": true,
+    "python.venvPath": ".venv",
+    "python.terminal.activateEnvironment": true,
+    "python.linting.pylintArgs": [
+        "--ignore .venv"
+    ],
+    "cSpell.words": [
+        "rtmidi"
+    ],
+    "git.ignoreLimitWarning": true
+}
